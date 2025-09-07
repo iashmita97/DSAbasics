@@ -4,3 +4,4 @@
 3.Remove duplicates from an array
 4.Count digits in a number
 5.Reverse digits of a number
+6.Check if a number is palindrome or not.
