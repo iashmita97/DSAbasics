@@ -5,3 +5,5 @@
 4.Count digits in a number
 5.Reverse digits of a number
 6.Check if a number is palindrome or not.
+7.GCD Or HCF
+8.Armstrong Numbers
