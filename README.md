@@ -7,3 +7,6 @@
 6.Check if a number is palindrome or not.
 7.GCD Or HCF
 8.Armstrong Numbers
+9.Print all Divisors
+10.Check for Prime
+
