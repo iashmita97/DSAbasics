@@ -6,6 +6,8 @@
 
 3.Remove duplicates from an array
 
+#KNOW BASIC MATHS
+
 4.Count digits in a number
 
 5.Reverse digits of a number
@@ -19,6 +21,12 @@
 9.Print all Divisors
 
 10.Check for Prime
+
+#INTRODUCTION TO RECURSION
+
+11.Understand Recursion by printing something N times
+
+
 
 
 
