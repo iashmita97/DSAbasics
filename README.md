@@ -26,7 +26,21 @@
 
 11.Understand Recursion by printing something N times
 
+12.Print Name N times using Recursion
 
+13.Print 1 to N using Recursion
+
+14.Print N to 1 using Recursion
+
+15.Sum of first N numbers
+
+16.Factorial of N numbers
+
+17.Reverse an array
+
+18.Check if the given String is Palindrome or not
+
+19.Fibonacci Number
 
 
 
