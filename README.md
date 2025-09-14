@@ -42,5 +42,10 @@
 
 19.Fibonacci Number
 
+#Hashing
+
+20. Hashing Theory
+
+21. Count frequency of each element in the array
 
 
