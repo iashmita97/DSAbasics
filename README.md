@@ -48,4 +48,6 @@
 
 21. Count frequency of each element in the array
 
+22. Find the highest/lowest frequency element
+
 
