@@ -50,4 +50,14 @@
 
 22. Find the highest/lowest frequency element
 
+#Sorting
+
+23. Selection Sort
+
+24. Bubble Sort
+
+25. Insertion Sort
+
+    
+
 
