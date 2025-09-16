@@ -58,6 +58,14 @@
 
 25. Insertion Sort
 
+26. Merge Sort
+
+27. Recursive Bubble Sort
+
+28. Recursive Insertion Sort
+
+29. Quick Sort
+
     
 
 
