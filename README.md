@@ -66,6 +66,9 @@
 
 29. Quick Sort
 
+30. Second largest element in an array without sorting.
+
+31. 
     
 
 
