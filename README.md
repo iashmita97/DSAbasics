@@ -69,6 +69,7 @@
 30. Second largest element in an array without sorting.
 
 31. Left Rotate an array by ones place
-    
+
+32.Left Rotate an array by D places    
 
 
