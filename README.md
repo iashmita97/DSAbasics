@@ -68,7 +68,7 @@
 
 30. Second largest element in an array without sorting.
 
-31. 
+31. Left Rotate an array by ones place
     
 
 
