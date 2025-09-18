@@ -72,4 +72,6 @@
 
 32.Left Rotate an array by D places    
 
+33.Move Zeroes to end
+
 
