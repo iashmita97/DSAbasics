@@ -77,3 +77,5 @@
 34.Linear Search
 
 35.Longest Subarray with given Sum K(Positives)
+
+36.Longest Subarray with sum K [Postives and Negatives]
