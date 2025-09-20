@@ -81,3 +81,5 @@
 36.Longest Subarray with sum K [Postives and Negatives]
 
 37.Sort an array of 0s, 1s and 2s
+
+38.Two Sum : Check if a pair with given sum exists in Array
