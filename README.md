@@ -74,4 +74,6 @@
 
 33.Move Zeroes to end
 
+34.Linear Search
+
 
