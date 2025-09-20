@@ -79,3 +79,5 @@
 35.Longest Subarray with given Sum K(Positives)
 
 36.Longest Subarray with sum K [Postives and Negatives]
+
+37.Sort an array of 0s, 1s and 2s
