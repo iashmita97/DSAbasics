@@ -89,3 +89,5 @@
 40.Stock Buy And Sell
 
 41.Rearrange Array Elements by Sign
+
+42.next_permutation : find next lexicographically greater permutation
