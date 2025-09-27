@@ -92,5 +92,7 @@
 
 42.Rearrange Array Elements by Sign
 
+43.next_permutation : find next lexicographically greater permutation
+
 
 
