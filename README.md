@@ -92,6 +92,8 @@
 
 42.Leaders in an Array
 
+43.Longest Consecutive Sequence in an Array
+
 
 
 
