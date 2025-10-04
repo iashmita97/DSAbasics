@@ -96,6 +96,8 @@
 
 44.Set matrix zeroes
 
+45.Rotate Image by 90 degree
+
 
 
 
